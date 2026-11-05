@@ -69,24 +69,23 @@ class AboutMe {
 - 🚀 Interested in programming and building useful applications.
 - 📚 Always learning and improving my coding skills.
 
+
 <h2 align="left">📫 Let's get connected:</h2>
 
-[![GitHub Badge](https://img.shields.io/badge/BoudahyrZakaria-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BoudahyrZakaria)
+<p align="left">
+  <a href="https://github.com/BoudahyrZakaria" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-BoudahyrZakaria-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
 
-<div align="center">
+  <a href="https://www.instagram.com/boud_zakaria/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-boud__zakaria-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 
-<a href="https://github.com/BoudahyrZakaria">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BoudahyrZakaria&show_icons=true&theme=nord&hide_border=true" width="48%" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoudahyrZakaria&layout=compact&theme=nord&hide_border=true" width="40%" alt="Top Languages">
-
+  <a href="https://www.linkedin.com/in/zakaria-boudahyr-08ba4539b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Zakaria%20Boudahyr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+</p>
 
-</div>
-
-<hr>
-
-<div align="center">
 
 **Code Cycle**<br>
 
